@@ -11,7 +11,8 @@
 - 🚀 Building Web Projects
 
 ## 🛠️ Skills
--c,c++
+-c
+-c++
 -python
 - HTML
 - CSS
