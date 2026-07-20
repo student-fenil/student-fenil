@@ -19,6 +19,11 @@
 - JavaScript
 - react js
 
+## 📂 My Projects
+
+🛒 *Amazon Clone*
+🔗 https://github.com/student-fenil/amazon-clone-project
+
 
 ## 🛠️ Tech Stack
 
