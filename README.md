@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Fenil+Viroja;Full+Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&linesFull+Stack+Web+Developer" />
 </p>
 
 
