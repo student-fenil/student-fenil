@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Fenil+Viroja" />
+</p>
+
+
+
 👋 Hi, I'm Fenil Viroja
 
  💻 About Me
