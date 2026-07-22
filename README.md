@@ -31,13 +31,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=student-fenil&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=student-fenil&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=student-fenil&layout=compact&theme=tokyonight)
 
 ---
 ⭐ Thanks for visiting my profile!
