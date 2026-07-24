@@ -16,6 +16,16 @@
 🔗 *Project Link:*  
 [👉 View Amazon Clone Project](https://github.com/student-fenil/amazon-clone-project)
 
+#skills
+-c
+-c++
+-paython
+-html
+-css
+-javascript
+-bootstrap
+-react js
+-git & git hub
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_singh_2674) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajSingh635964) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsingh65145@gmail.com)
