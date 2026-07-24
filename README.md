@@ -21,8 +21,9 @@
 - 🔹 C
 - 🔹 C++
 - 🔹 Python
-- 🔹 HTML5
-- 🔹 CSS3
+- 🔹 sql & sqlite
+- 🔹 HTML
+- 🔹 CSS
 - 🔹 JavaScript
 - 🔹 Bootstrap
 - 🔹 React.js
