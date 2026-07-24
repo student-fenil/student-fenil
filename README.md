@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
 </div>
 
 # 💫 Hi 👋, I'm Fenil viroja
@@ -11,9 +11,6 @@
 
 - 🩵 Be Specific: If your "big projects" are in a specific niche (e.g., E-commerce, FinTech, Data Visualization), replace "large-scale projects" with that specific     industry.<br>
 - 🎉 The "Fun Fact": Don't be afraid to make this personal! If you aren't into coding optimization, mention a hobby, a favorite tech stack, or   something unique about your workflow.
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_singh_2674) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajSingh635964) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsingh65145@gmail.com)
