@@ -16,8 +16,8 @@
 🔗 *Project Link:*  
 [👉 View Amazon Clone Project](https://github.com/student-fenil/amazon-clone-project)
 
-#skills
--c
+#skills <br>
+-c <br>
 -c++
 -paython
 -html
