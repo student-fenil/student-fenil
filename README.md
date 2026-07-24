@@ -20,7 +20,7 @@
 
 #Amazon-clone-project
 <p align="center">
-  <a href="https://github.com/student-fenil/amazon-clone-project" /> </a>
+  <a href="https://github.com/student-fenil/amazon-clone-project" /> 
 </p>
 
 # 💻 Tech Stack:
