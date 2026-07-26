@@ -65,9 +65,6 @@
 ### API Integration
 ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
 <hr>
-![](https://github-profile-trophy.vercel.app/?username=rajsingh65145-a11y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
