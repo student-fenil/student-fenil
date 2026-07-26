@@ -16,6 +16,11 @@
 🔗 *Project Link:*  
 [👉 View Amazon Clone Project](https://github.com/student-fenil/amazon-clone-project)
 
+## 🎬 Netflix Clone Project
+
+🔗 *Project Link:*  
+👉 [View Netflix Clone Project](https://github.com/student-fenil/Netflix-Clone)
+
 ## 💼 Professional Portfolio
 
 🔗 *Portfolio Link:*  
