@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+My+Profile" alt="Typing Animation" />
 </div>
-<hr>
+
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
 - 👯 I'm looking to collaborate on: Open-source projects that focus on frontend architecture, UI/UX optimization, or innovative web tools.<br>
