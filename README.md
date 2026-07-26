@@ -69,12 +69,6 @@
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=rajsingh65145-a11y&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
