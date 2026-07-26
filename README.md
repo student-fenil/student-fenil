@@ -11,6 +11,7 @@
 
 - 🩵 Be Specific: If your "big projects" are in a specific niche (e.g., E-commerce, FinTech, Data Visualization), replace "large-scale projects" with that specific     industry.<br>
 - 🎉 The "Fun Fact": Don't be afraid to make this personal! If you aren't into coding optimization, mention a hobby, a favorite tech stack, or   something unique about your workflow.
+  <hr>
 
 ### 🛒 Amazon Clone Project
 🔗 *Project Link:*  
