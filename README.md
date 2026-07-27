@@ -43,6 +43,8 @@
 - 🔹 React.js
 - 🔹 Git
 - 🔹 GitHub
+- 🔹 Tailwindcss
+
 <hr>
 
 ## 🌐 Socials:
