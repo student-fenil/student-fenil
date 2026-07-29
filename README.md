@@ -36,9 +36,10 @@
 - 🔹 C++
 - 🔹 Python
 - 🔹 sql & sqlite
-- 🔹 HTML
-- 🔹 CSS
+- 🔹 HTML5
+- 🔹 CSS3
 - 🔹 JavaScript
+- 🔹 Typeript
 - 🔹 Bootstrap
 - 🔹 React.js
 - 🔹 Git
