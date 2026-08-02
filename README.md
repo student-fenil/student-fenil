@@ -4,14 +4,19 @@
 
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
-- 👯 I'm looking to collaborate on: Open-source projects that focus on frontend architecture, UI/UX optimization, or innovative web tools.<br>
-- 💛 I'm looking for help with: Backend integration (specifically Node.js/databases) and advanced state management patterns.<br>
-- 🌱 I'm currently learning: TypeScript, Next.js, and advanced CSS animation techniques to polish my user interfaces.<br>
-- 💬 Ask me about: JavaScript (ES6+), React, Tailwind CSS, or best practices for component-based architecture.<br>
+Full Stack Web Developer
 
-- 🩵 Be Specific: If your "big projects" are in a specific niche (e.g., E-commerce, FinTech, Data Visualization), replace "large-scale projects" with that specific     industry.<br>
-- 🎉 The "Fun Fact": Don't be afraid to make this personal! If you aren't into coding optimization, mention a hobby, a favorite tech stack, or   something unique about your workflow.
-  <hr>
+🎓 BCA Student | Passionate About Web Development
+
+🚀 Building Responsive & Modern Websites
+
+🌱 Currently Learning React, Node.js & TypeScript
+
+📫 Contact: fenilviroja497@gmail.com
+
+✨ Turning Ideas Into Digital Experiencesc
+
+<hr>
 
 ### 🛒 Amazon Clone Project
 🔗 *Project Link:*  
