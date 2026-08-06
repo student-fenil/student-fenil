@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+My+Profile" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+My+Profile" alt="Typing Animation" />
 </div>
 
 # 💫 Hi 👋, I'm Fenil viroja
@@ -54,9 +54,7 @@ Full Stack Web Developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_singh_2674) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajSingh635964) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsingh65145@gmail.com)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
+
 <hr>
 
 # 💻 Tech Stack:
