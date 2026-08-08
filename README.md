@@ -67,6 +67,14 @@ Full Stack Web Developer
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code.%20Learn.%20Build.%20Improve.&author=Fenil%20Viroja" width="90%">
 
+## 🔗 ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Great%20software%20is%20built%20with%20patience,%20clean%20code,%20and%20continuous%20learning.&author=Fenil%20Viroja" width="90%">
+
+</div>
+
 
 </div>
 <p align="center">
