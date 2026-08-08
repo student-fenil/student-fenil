@@ -65,11 +65,13 @@ Full Stack Web Developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=student-fenil&bg_color=0D1117&color=9BE9A8&line=39D353&point=FFFFFF&area=true&area_color=7F3FBF&title_color=9BE9A8&custom_title=Fenil%20Viroja%20Contribution%20Graph&hide_border=true&radius=8" width="95%">
-<br><br>
-<img src="https://ghchart.rshah.org/39d353/student-fenil" width="95%" alt="GitHub Contribution Calendar">
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=student-fenil&bg_color=0D1117&color=9BE9A8&line=39D353&point=FFFFFF&area=true&area_color=7F3FBF&title_color=9BE9A8&custom_title=Fenil%20Viroja%20Contribution%20Graph&hide_border=false&radius=8&days=31&grid=true" width="95%">
 
+<br><br>
+
+<img src="https://ghchart.rshah.org/39d353/student-fenil" width="95%" alt="Fenil Viroja GitHub Contribution Calendar">
+
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
