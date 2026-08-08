@@ -65,9 +65,10 @@ Full Stack Web Developer
 
 <div align="center">
 
-> 💻 *“Code is not just about solving problems, it's about creating possibilities.”*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
