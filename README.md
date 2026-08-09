@@ -38,6 +38,7 @@ Full Stack Web Developer
 
 ## 💻 Skills
 
+- 🔹 Communication skills
 - 🔹 C
 - 🔹 C++
 - 🔹 Python
