@@ -10,7 +10,7 @@ Full Stack Web Developer
 
 🚀 Building Responsive & Modern Websites
 
-🌱 Currently Learning React, Node.js & TypeScript
+🌱 Currently Learning React, Node.js & TypeScript With coading skill Improving
 
 📫 Contact: fenilviroja497@gmail.com
 
