@@ -74,6 +74,8 @@ Full Stack Web Developer
 <br>
 <hr>
 
+<img src="https://github.com/AAbdullahRajput/AAbdullahRajput/blob/main/gif.gif?raw=true">
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
