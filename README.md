@@ -73,9 +73,11 @@ Full Stack Web Developer
 
 <br>
 <hr>
+
 <p align="center">
 <img src ="https://github.com/Fenilviroja/fenilviroja/blob/main/gif.gif?raw=true">
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
