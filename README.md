@@ -49,8 +49,8 @@ Full Stack Web Developer
 - 🔹 Typeript
 - 🔹 Bootstrap
 - 🔹 React.js
-- 🔹 Git & github
 - 🔹 Tailwindcss
+- 🔹 Git & Github
 
 <hr>
 
