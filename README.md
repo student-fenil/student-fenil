@@ -9,7 +9,7 @@ Full Stack Web Developer
 
 🎓 BCA Student | Passionate About Web Development
 
-🚀 Building Responsive & Modern Websites
+🚀 Building Responsive & Modern websites
 
 🌱 Currently Learning React, Node.js & TypeScript With coading skill Improving
 
