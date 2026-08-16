@@ -5,9 +5,7 @@
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
 Full Stack Web Developer
-
 <br> </br>
-
 🎓 BCA Student | Passionate About Web Development
 
 🚀 Building Responsive & Modern websites
