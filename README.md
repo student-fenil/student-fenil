@@ -1,4 +1,8 @@
-# Fenil VIROJA
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+To+My+Profile" alt="Typing Animation" />
+</div>
+
 
 <div align="center">
 
@@ -8,7 +12,7 @@
 
 🔗
 
-### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
+### Full Stack Web Developer  • React Native • React • Node.js • FastAPI 
 
 <br>
 
