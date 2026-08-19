@@ -73,7 +73,7 @@ Full Stack Web Developer
 - Open to collaborate on *Full-Stack Projects*
 - Reach me at **fenilviroja497@gmail.com*
 
-
+<hr>
 ## Tech Stack & Expertise
 
 <div align="center">
@@ -212,9 +212,6 @@ Full Stack Web Developer
 <br>
 <hr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
 
 
 ## Connect & Collaborate
