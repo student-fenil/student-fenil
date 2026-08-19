@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FenilViroja/FenilViroja/main/gif.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" width="600"/>
 </div>
 
 <br><br>
