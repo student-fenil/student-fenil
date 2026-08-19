@@ -28,6 +28,7 @@ Full Stack Web Developer
 
 <hr>
 
+</div>
 
 ### 🛒 Amazon Clone Project
 🔗 *Project Link:*  
