@@ -2,6 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+To+My+Profile" alt="Typing Animation" />
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fenilviroja/fenilviroja/main/gif.gif" alt="Developer Banner" width="600"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+fenil Viroja;Full-Stack+Web+Developer;+%E2%80%A2+React+Native+%E2%80%A2+React;Node.js+%E2%80%A2+FastAPI+%E2%80%A2;Building+Real+Products" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full stack Web devloper | • React Native • React • Node.js • FastAPI </h3>
+
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
 Full Stack Web Developer
