@@ -1,23 +1,87 @@
+# Fenil VIROJA
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+To+My+Profile" alt="Typing Animation" />
+
+<img src="# Fenil VIROJA
+
+<div align="center">
+
+<img src="# Fenil VIROJA
+
+<div align="center">
+
+<img src="YOUR_IMAGE_URL_HERE" width="600"/>
+
+<br><br>
+
+🔗
+
+### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
+
+<br>
+
+A passionate developer from India  
+Building full-stack mobile and web applications  
+from idea to deployment  
+Transforming ideas into impactful, real-world software
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue)
+
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=blue)
+
+</div>" width="600"/>
+
+<br><br>
+
+🔗
+
+### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
+
+<br>
+
+A passionate developer from India  
+Building full-stack mobile and web applications  
+from idea to deployment  
+Transforming ideas into impactful, real-world software
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue)
+
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=blue)
+
+</div>" width="600"/>
+
+<br><br>
+
+🔗
+
+### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
+
+<br>
+
+A passionate developer from India  
+Building full-stack mobile and web applications  
+from idea to deployment  
+Transforming ideas into impactful, real-world software
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue)
+
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=blue)
+
 </div>
 
 
-# 💫 Hi 👋, I'm Fenil viroja
-<hr>
-Full Stack Web Developer
-<br> </br>
-🎓 BCA Student | Passionate About Web Development
-
-🚀 Building Responsive & Modern websites
-
-🌱 Currently Learning React, Node.js & TypeScript With coading skill Improving
-
-📫 Contact: fenilviroja497@gmail.com 
-
-✨ Turning Ideas Into Digital Experiencesc and Learning Every day
-
-<hr>
 
 ### 🛒 Amazon Clone Project
 🔗 *Project Link:*  
