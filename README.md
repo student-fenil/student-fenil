@@ -1,4 +1,4 @@
-
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/41264c2b-4b73-4432-8f1f-41dd3d42eb83" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+To+My+Profile" alt="Typing Animation" />
 </div>
@@ -7,7 +7,8 @@
 <hr>
 
 <div align="center">
-  <img src="YAHAN-IMAGE-LINK-DAALO" alt="Fenil Viroja" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" width="500"/>
 </div>
 
 <br><br>
