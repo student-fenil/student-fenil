@@ -13,6 +13,22 @@
 
 <br><br>
 
+# 💫 Hi 👋, I'm Fenil viroja
+<hr>
+Full Stack Web Developer
+<br> </br>
+🎓 BCA Student | Passionate About Web Development
+
+🚀 Building Responsive & Modern websites
+
+🌱 Currently Learning React, Node.js & TypeScript With coading skill Improving
+
+📫 Contact: fenilviroja497@gmail.com 
+
+✨ Turning Ideas Into Digital Experiencesc and Learning Every day
+
+<hr>
+
 
 ### 🛒 Amazon Clone Project
 🔗 *Project Link:*  
