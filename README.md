@@ -201,47 +201,6 @@ Full Stack Web Developer
 </table>
 
 
-## GitHub Analytics
-
-<div align="center">
-
-<br/>
-
-<img width="48%" src="https://streak-stats.demolab.com/?user=Fenil Viroja&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenil viroja=tokyo-night&hide_border=true&area=true&custom_title=Ahmad%20Abdullah%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/fenil Viroja/fenil viroja/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fenil viroja=tokyonight" width="98%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenil Viroja=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenil viroja=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil Viroja&theme=tokyonight" width="32%" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
