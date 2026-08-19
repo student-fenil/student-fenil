@@ -64,6 +64,15 @@ Full Stack Web Developer
 <br>
 <hr>
 
+### What I Do
+
+- Shipped *ConnectHub* — full-stack social media platform (React js, Node.js ,javascript)
+- Building *AI Tools Hub* — a Framer-based AI tools directory with CMS-bound dynamic pages and custom components
+- Building cross-platform apps — same codebase for Mobile & Web using Flutter and React Native
+- Experienced integrating cross-team repos into production-ready apps
+- Open to collaborate on *Full-Stack Projects*
+- Reach me at **fenilviroja497@gmail.com*
+
 
 ## Tech Stack & Expertise
 
