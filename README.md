@@ -7,9 +7,7 @@
 <hr>
 
 <div align="center">
-  <img src="<div align="center">
   <img src="YAHAN-IMAGE-LINK-DAALO" alt="Fenil Viroja" width="100%"/>
-</div>" alt="Fenil Viroja" width="100%"/>
 </div>
 
 <br><br>
