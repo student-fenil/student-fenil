@@ -2,61 +2,7 @@
 
 <div align="center">
 
-<img src="# Fenil VIROJA
-
-<div align="center">
-
-<img src="# Fenil VIROJA
-
-<div align="center">
-
 <img src="YOUR_IMAGE_URL_HERE" width="600"/>
-
-<br><br>
-
-🔗
-
-### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
-
-<br>
-
-A passionate developer from India  
-Building full-stack mobile and web applications  
-from idea to deployment  
-Transforming ideas into impactful, real-world software
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
-
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue)
-
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=blue)
-
-</div>" width="600"/>
-
-<br><br>
-
-🔗
-
-### Full Stack Web Developer • Flutter • React Native • React • Node.js • FastAPI • Supabase
-
-<br>
-
-A passionate developer from India  
-Building full-stack mobile and web applications  
-from idea to deployment  
-Transforming ideas into impactful, real-world software
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
-
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue)
-
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=blue)
-
-</div>" width="600"/>
 
 <br><br>
 
