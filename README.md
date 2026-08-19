@@ -180,32 +180,12 @@ Full Stack Web Developer
     <br><sub><b>VS Code</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
-    <br><sub><b>Android Studio</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" />
     <br><sub><b>GitHub</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma" />
-    <br><sub><b>Figma</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
-    <br><sub><b>Framer</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
     <br><sub><b>Postman</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" height="50" alt="Nginx" />
-    <br><sub><b>Nginx</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-    <br><sub><b>Docker</b></sub>
   </td>
 </tr>
 </table>
