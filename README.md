@@ -3,8 +3,7 @@
 </div>
 
 <hr>
-
-<br><br>
+<br>
 
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
