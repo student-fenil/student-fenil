@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Fenil+Viroja;Full+Stack+Web+Developer;Welcome+To+My+Profile" alt="Typing Animation" />
 </div>
 
-<br>
 <hr>
-
-
 
 <br><br>
 
