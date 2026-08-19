@@ -68,36 +68,6 @@ Full Stack Web Developer
 
 <div align="center">
 
-### Mobile Development
-<table>
-<tr>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" alt="Flutter" />
-    <br><sub><b>Flutter</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
-    <br><sub><b>Dart</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
-    <br><sub><b>React Native</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="50" height="50" alt="Expo" />
-    <br><sub><b>Expo</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" alt="Android" />
-    <br><sub><b>Android</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="iOS" />
-    <br><sub><b>iOS</b></sub>
-  </td>
-</tr>
-</table>
-
 ### Web Development
 <table>
 <tr>
