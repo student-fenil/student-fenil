@@ -12,22 +12,21 @@
 
 <br><br>
 
-🔗
+# 💫 Hi 👋, I'm Fenil viroja
+<hr>
+Full Stack Web Developer
+<br> </br>
+🎓 BCA Student | Passionate About Web Development
 
-### Full Stack Web Developer  • React Native • React • Node.js • FastAPI 
+🚀 Building Responsive & Modern websites
 
-<br>
+🌱 Currently Learning React, Node.js & TypeScript With coading skill Improving
 
-A passionate developer from India  
-Building full-stack mobile and web applications  
-from idea to deployment  
-Transforming ideas into impactful, real-world software
+📫 Contact: fenilviroja497@gmail.com 
 
-<br><br>
+✨ Turning Ideas Into Digital Experiencesc and Learning Every day
 
-
-</div>
-
+<hr>
 
 
 ### 🛒 Amazon Clone Project
