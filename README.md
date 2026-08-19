@@ -3,16 +3,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Fenilviroja/fenilviroja/main/gif.gif" alt="Developer Banner" width="600"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+fenil Viroja;Full-Stack+Web+Developer;+%E2%80%A2+React+Native+%E2%80%A2+React;Node.js+%E2%80%A2+FastAPI+%E2%80%A2;Building+Real+Products" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">Full stack Web devloper | • React Native • React • Node.js • FastAPI </h3>
-
 # 💫 Hi 👋, I'm Fenil viroja
 <hr>
 Full Stack Web Developer
