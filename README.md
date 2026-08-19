@@ -5,11 +5,7 @@
 <br>
 <hr>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/fenilviroja/Fenilviroja/main/gif.gif" width="500"/>
-
-</div>
 
 <br><br>
 
