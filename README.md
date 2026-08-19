@@ -9,6 +9,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AAbdullahRajput/AAbdullahRajput/main/gif.gif" width="600"/>
+</div>
 
 <br><br>
 
