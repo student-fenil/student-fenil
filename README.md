@@ -60,6 +60,185 @@ Full Stack Web Developer
 <hr>
 
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+<hr>
+
+
+## Tech Stack & Expertise
+
+<div align="center">
+
+### Mobile Development
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" alt="Flutter" />
+    <br><sub><b>Flutter</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
+    <br><sub><b>Dart</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
+    <br><sub><b>React Native</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="50" height="50" alt="Expo" />
+    <br><sub><b>Expo</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" alt="Android" />
+    <br><sub><b>Android</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="iOS" />
+    <br><sub><b>iOS</b></sub>
+  </td>
+</tr>
+</table>
+
+### Web Development
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+    <br><sub><b>React 19</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
+    <br><sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+    <br><sub><b>Node.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+    <br><sub><b>FastAPI</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+    <br><sub><b>TypeScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
+  </td>
+
+ <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+    <br><sub><b>HTML5</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+    <br><sub><b>CSS3</b></sub>
+  </td>
+</tr>
+</table>
+
+### Backend & Databases
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" height="50" alt="Supabase" />
+    <br><sub><b>Supabase</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
+    <br><sub><b>Firebase</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+    <br><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+    <br><sub><b>PostgreSQL</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+    <br><sub><b>MySQL</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" />
+    <br><sub><b>SQLite</b></sub>
+  </td>
+</tr>
+</table>
+
+### Programming Languages
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+    <br><sub><b>TypeScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
+    <br><sub><b>Dart</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+    <br><sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+    <br><sub><b>C++</b></sub>
+  </td>
+
+ <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+    <br><sub><b>C#</b></sub>
+  </td>
+</tr>
+</table>
+
+### Tools & Platforms
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VS Code" />
+    <br><sub><b>VS Code</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
+    <br><sub><b>Android Studio</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" />
+    <br><sub><b>GitHub</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma" />
+    <br><sub><b>Figma</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+    <br><sub><b>Framer</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
+    <br><sub><b>Postman</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" height="50" alt="Nginx" />
+    <br><sub><b>Nginx</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+    <br><sub><b>Docker</b></sub>
+  </td>
+</tr>
+</table>
 
 
 # 💻 Tech Stack:
