@@ -201,6 +201,28 @@ Full Stack Web Developer
 </table>
 
 
+## GitHub Analytics
+
+<div align="center">
+
+<br/>
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=Fenil Viroja&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenil viroja=tokyo-night&hide_border=true&area=true&custom_title=Ahmad%20Abdullah%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/fenil Viroja/fenil viroja/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 
 ### ✍️ Random Dev Quote
 
