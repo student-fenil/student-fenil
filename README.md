@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="image(2).png.jpeg" width="600" height="338">
+  <img src="image(2).png.jpeg" width="500" height="338">
 </div>
 
 <hr>
