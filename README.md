@@ -209,18 +209,22 @@ Full Stack Web Developer
 </tr>
 </table>
 
+<br>
+<hr>
 
 ## 📈 GitHub Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=student-fenil&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true)
 
-<!-- snake animation view -->
+<!-- snake animation view student-fenil  -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
+<br>
+<hr>
 ### ✍️ Random Dev Quote
 
 <div align="center">
