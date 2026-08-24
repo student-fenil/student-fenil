@@ -184,6 +184,10 @@ Full Stack Web Developer
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
     <br><sub><b>C#</b></sub>
   </td>
+   <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+    <br><sub><b>R#</b></sub>
+  </td>
 </tr>
 </table>
 
