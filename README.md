@@ -164,10 +164,6 @@ Full Stack Web Developer
     <br><sub><b>TypeScript</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
-    <br><sub><b>Dart</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
     <br><sub><b>JavaScript</b></sub>
   </td>
