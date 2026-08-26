@@ -49,6 +49,7 @@ Full Stack Web Developer
 
 - 🔹 Communication skills
 - 🔹 C
+- 🔹 R studio
 - 🔹 C++
 - 🔹 Python
 - 🔹 sql & sqlite
