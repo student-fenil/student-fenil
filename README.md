@@ -220,6 +220,15 @@ Full Stack Web Developer
 </div>
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
 <br>
 <hr>
 ### ✍️ Random Dev Quote
