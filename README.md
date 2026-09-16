@@ -52,7 +52,7 @@ Full Stack Web Developer
 - 🔹 R studio
 - 🔹 C++
 - 🔹 Python
-- 🔹 sql & sqlite
+- 🔹 Sql & Sqlite
 - 🔹 HTML5
 - 🔹 CSS3
 - 🔹 JavaScript
